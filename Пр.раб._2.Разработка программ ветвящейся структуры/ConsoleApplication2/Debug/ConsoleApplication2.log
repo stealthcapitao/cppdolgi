@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2.cpp
+D:\prog\dolgi\prak2\ConsoleApplication2\ConsoleApplication2.cpp(37,23): warning C4244:  =: преобразование "double" в "int", возможна потеря данных
+D:\prog\dolgi\prak2\ConsoleApplication2\ConsoleApplication2.cpp(37): error C4700:  использована неинициализированная локальная переменная "z"
+D:\prog\dolgi\prak2\ConsoleApplication2\ConsoleApplication2.cpp(37): error C4700:  использована неинициализированная локальная переменная "e"
